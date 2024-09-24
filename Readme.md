@@ -24,17 +24,15 @@
 
     -> Adapter Pattern
         Converts the interface of a class into another interface that the client expects. Example: Adapting incompatible audio interfaces to work together.
-        
+
     -> Facade Pattern
         Provides a simplified interface to a complex system, making it easier for the client to interact with the system. Example: A video conversion tool that simplifies the process of video encoding and saving files.
 
 # Commands to run Task1
-- Compile:  javac Task1/Behavioral_DesignPattern/ObserverPattern/*.java 
-
+- Compile:  
+            javac Task1/Behavioral_DesignPattern/ObserverPattern/*.java 
             javac Task1/Behavioral_DesignPattern/CommandPattern/*.java
-
             javac Task1/Creational_DesignPattern/*.java
-
             javac Task1/Structural_DesignPattern/*.java
 
 - Run:  java Task1.Behavioral_DesignPattern.ObserverPattern.ObserverPatternDemo
