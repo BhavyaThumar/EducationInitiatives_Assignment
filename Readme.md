@@ -29,6 +29,7 @@
         Provides a simplified interface to a complex system, making it easier for the client to interact with the system. Example: A video conversion tool that simplifies the process of video encoding and saving files.
 
 # Commands to run Task1
+
 - Compile:
 
             javac Task1/Behavioral_DesignPattern/ObserverPattern/*.java 
