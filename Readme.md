@@ -43,8 +43,7 @@ Commands to run Task1
 ## Task - 2: Satellite Command System
 
 Key Features: 
--> Satellite Initialization: The satellite starts with default attributes (orientation, solar panels status, and data collected).
--> Rotate Command: Changes the satellite's orientation based on the input direction (North, South, East, West).
+-> Satellite Initialization: The satellite starts with default attributes (orientation, solar panels status, and data collected).-> Rotate Command: Changes the satellite's orientation based on the input direction (North, South, East, West).
 -> Activate/Deactivate Solar Panels: Controls the status of the solar panels (Active or Inactive).
 -> Data Collection: Collects data only if the solar panels are active. Each collection increments the data by 10 units.
 -> Command Handling: Implements the Command Pattern to handle user commands and maintain satellite state.
