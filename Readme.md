@@ -29,13 +29,19 @@
         Provides a simplified interface to a complex system, making it easier for the client to interact with the system. Example: A video conversion tool that simplifies the process of video encoding and saving files.
 
 # Commands to run Task1
-- Compile:  
+- Compile:
+
             javac Task1/Behavioral_DesignPattern/ObserverPattern/*.java 
+
             javac Task1/Behavioral_DesignPattern/CommandPattern/*.java
+
             javac Task1/Creational_DesignPattern/*.java
+
             javac Task1/Structural_DesignPattern/*.java
 
-- Run:  java Task1.Behavioral_DesignPattern.ObserverPattern.ObserverPatternDemo
+- Run:  
+        
+        java Task1.Behavioral_DesignPattern.ObserverPattern.ObserverPatternDemo
 
         java Task1.Behavioral_DesignPattern.CommandPattern.Main
 
@@ -62,6 +68,7 @@ Key Features:
 
 
 # Command to run Task2
+
 - Compile: javac Task2/SatelliteCommandSystem/*.java
 
 - Run: java Task2.SatelliteCommandSystem.Main
