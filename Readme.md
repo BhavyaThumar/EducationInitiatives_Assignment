@@ -70,6 +70,10 @@ Key Features:
 
 # Command to run Task2
 
-- Compile: javac Task2/SatelliteCommandSystem/*.java
+- Compile: 
 
-- Run: java Task2.SatelliteCommandSystem.Main
+        javac Task2/SatelliteCommandSystem/*.java
+
+- Run: 
+
+        java Task2.SatelliteCommandSystem.Main
